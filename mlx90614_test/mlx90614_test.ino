@@ -1,3 +1,11 @@
+/* Author: Frank Moreno (kranfix)
+ *  
+ * MLX -> ESP32 
+ * VIN -> 3.3v
+ * GND -> GND
+ * SCL -> D22
+ * SDA -> D21
+ */
 #include <Wire.h>
 #include <Adafruit_MLX90614.h>
  
